@@ -42,4 +42,18 @@ h4 {
     float: right!important;
 }
 
-.derecha {}
+#global {
+    height: 300px;
+    width: 100%;
+    border: 2px solid #ddd;
+    padding: 2px;
+    overflow-x: scroll;
+}
+
+#politicas {
+    height: auto;
+}
+
+.texto {
+    padding: 5px;
+}
