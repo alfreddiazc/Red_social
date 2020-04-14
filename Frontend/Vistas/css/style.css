@@ -26,6 +26,20 @@ a {
     size: 15px;
 }
 
+label {
+    color: azure;
+}
+
+h4 {
+    color: azure;
+}
+
 .img img {
     width: 100%;
 }
+
+.pull-right {
+    float: right!important;
+}
+
+.derecha {}
